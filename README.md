@@ -19,6 +19,7 @@ Mongoose
 bcrypt
 JWT (JSON Web Token)
 Validator
+
 Frontend:
 React
 Redux
